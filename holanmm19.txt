@@ -1,0 +1,2 @@
+"Computer science is about computers just as astronomy is about telescopes" nmm19
+-- Edsger W. Dijkstra
